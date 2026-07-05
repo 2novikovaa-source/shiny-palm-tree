@@ -1,0 +1,1 @@
+Just some general explonation for project and other 
