@@ -3,3 +3,4 @@ print("Starting the database refresh process...")
 
 #This is adding_coonnections to the database
 print( "Connecting to the database...")
+print ("Connection established successfully.")
